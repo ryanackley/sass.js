@@ -6,12 +6,7 @@
   
 ## Installation
 
-  Install the [Kiwi package manager for nodejs](http://github.com/visionmedia/kiwi)
-  and run:
-  
-      $ kiwi install sass
-
-Or npm:
+npm:
 
       $ npm install sass
 
@@ -132,10 +127,6 @@ compiles to
 
 Update Git submodules and execute:
     $ make test
-or
-    $ node spec/node.js
-or
-    $ jspec --node
     
 ## More Information
 
