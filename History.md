@@ -1,4 +1,12 @@
 
+0.5.0 / 2010-10-26 
+==================
+
+  * Added Chris Pickel as contributor
+  * Added support substitution in variable declarations [Chris Pickel]
+  * Added npm support
+  * Fixed mixins [Chris Pickel]
+
 0.4.2 / 2010-06-21
 ==================
 
