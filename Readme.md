@@ -3,6 +3,8 @@
 
   JavaScript implementation of Sass. Great for **node.js** and other
   frameworks supporting the CommonJS module system.
+
+  I strongly suggest that you check out my other project [Stylus](http://learnboost.github.com/stylus).
   
 ## Installation
 
